@@ -1,0 +1,60 @@
+.rootie{
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2018/10/soccer-ball-football-lawn-grass-4k_1540063065.jpg");
+    background-position: 0%;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.buttons_players{
+    color: orange;
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border: 1px solid orange;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
+.buttons_container{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.buttons_style{
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+    background-color: green;
+    color: white;
+    border: 2px ridge black;
+    border-radius: 5px;
+}
+.white{
+    color: white;
+}
+.br{
+    border: 5px solid black;
+    margin-left: 25px;
+    border-radius: 50px;
+    background-color: black;
+    color: red !important;
+}
+.players_table{
+    color:white;
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifl;
+    padding: 10px;
+}
+table, th, td {
+    border:1px solid black;
+    color: white;
+  }
+table{
+    width: 50%;
+}
+.cs{
+    color: orange;
+    background-color: black;
+}
