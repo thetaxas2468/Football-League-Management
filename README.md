@@ -5,4 +5,5 @@ cd backend
 npm start
 server starts at port 3000
 
-its a league that has football players and their cards that displayed in the table after logging in and you can see peoples football cards
+Football Leauge: 
+Website that the backend of it written in NodeJS(Express) and the frontend part used HTML, CSS, JS, JQuery, Bootstrap and used MongoDB as database.
