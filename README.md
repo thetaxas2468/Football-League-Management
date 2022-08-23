@@ -1,5 +1,3 @@
-Football Leauge: 
-Website that the backend of it written in NodeJS(Express) and the frontend part used HTML, CSS, JS, JQuery, Bootstrap and used MongoDB as database.
-
-
-
+Football League Management: Website that has a football league where each league has its own teams and each team has its own players. The admin user can add, delete, update and search players.
+Frontend: HTML, CSS, JS, JQuery and Bootstrap.
+Backend: NodeJS (Express Web Application Framework) and MongoDB Database.
